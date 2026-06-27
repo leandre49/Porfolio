@@ -29,6 +29,7 @@ function mergePersonalInfo(saved, defaults) {
   return {
     ...defaults,
     ...saved,
+    profileImage: saved.profileImage || defaults.profileImage,
     social: { ...defaults.social, ...(saved.social || {}) },
   }
 }

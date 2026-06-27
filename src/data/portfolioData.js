@@ -8,6 +8,7 @@ import {
   SiRedis, SiGraphql, SiNextdotjs, SiExpress, SiPrisma, SiFirebase,
   SiStorybook, SiCypress, SiJest,
 } from 'react-icons/si'
+import leandreImg from '../assets/leandre.jpeg'
 
 export const personalInfo = {
   name: 'Kwizera Bakunda Leandre',
@@ -19,7 +20,7 @@ export const personalInfo = {
     'I build modern, scalable web applications with clean code and great user experiences. With expertise across the full stack, I specialize in React ecosystems and cloud-native architectures.',
     'I\'m passionate about open source, developer tooling, and turning complex problems into elegant solutions. When I\'m not coding, you\'ll find me exploring new tech, writing technical articles, or contributing to community projects.',
   ],
-  profileImage: '',
+  profileImage: leandreImg,
   resumeUrl: '/resume.pdf',
   social: {
     github: 'https://github.com/leandre49',
