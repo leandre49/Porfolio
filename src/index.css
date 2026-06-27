@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #6366f1;
+  --color-primary-dark: #4f46e5;
+  --color-secondary: #06b6d4;
+  --color-accent: #f59e0b;
+  --color-surface: #0f172a;
+  --color-surface-light: #1e293b;
+  --color-surface-card: #1e293b;
+  --color-text-primary: #f1f5f9;
+  --color-text-secondary: #94a3b8;
+  --color-border: #334155;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.dark body,
+.dark {
+  background-color: var(--color-surface);
+  color: var(--color-text-primary);
+}
+
+:root:not(.dark) body,
+:root:not(.dark) {
+  background-color: #ffffff;
+  color: #0f172a;
+}
