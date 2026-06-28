@@ -139,7 +139,7 @@ export const experience = [
     id: 1,
     role: 'Senior Full-Stack Developer',
     company: 'TechCorp Inc.',
-    location: 'San Francisco, CA',
+    location: 'Kigali, Rwanda',
     period: 'Jan 2023 — Present',
     highlights: [
       'Led development of a microservices platform serving 2M+ users, reducing API latency by 40%',
