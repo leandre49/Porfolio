@@ -176,17 +176,10 @@ export const experience = [
 export const education = [
   {
     id: 1,
-    degree: 'B.S. in Computer Science',
-    school: 'University of California, Berkeley',
-    period: '2015 — 2019',
-    details: 'GPA: 3.8/4.0 | Dean\'s List | Teaching Assistant for Data Structures',
-  },
-  {
-    id: 2,
-    degree: 'Full-Stack Web Development Nanodegree',
-    school: 'Udacity',
-    period: '2019',
-    details: 'Specialized in React, Node.js, and cloud deployment',
+    degree: 'High School Diploma',
+    school: 'ESSA NYARUGUNGA',
+    period: '2023 — 2026',
+    details: '',
   },
 ]
 
