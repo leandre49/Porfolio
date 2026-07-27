@@ -153,8 +153,8 @@ export const experience = [
   {
     id: 3,
     role: 'Frontend Developer',
-    company: 'WebAgency Co.',
-    location: 'Los Angeles, CA',
+    company: 'Joechin Innotech',
+    location: 'Musanze',
     period: 'Jun 2019 — Feb 2021',
     highlights: [
       'Developed 15+ client-facing web applications using React and TypeScript',
