@@ -83,7 +83,7 @@ export const projects = [
     title: 'Delivery Website',
     description: 'A modern food delivery web application with real-time order tracking, restaurant browsing, and seamless checkout experience.',
     image: 'https://images.unsplash.com/photo-1526367790999-0150786686a2?w=600&h=400&fit=crop',
-    techStack: ['React', 'JavaScript', 'Node.js'],
+    techStack: ['React', 'JavaScript', 'Node.js', 'MongoDB'],
     liveUrl: '',
     githubUrl: 'https://github.com/leandre49/Delivery-website',
   },
