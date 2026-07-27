@@ -153,7 +153,7 @@ export const experience = [
   {
     id: 3,
     role: 'Frontend Developer',
-    company: 'Joechin Innotech',
+    company: 'Joechim Innotech',
     location: 'Musanze',
     period: 'Jun 2019 — Feb 2021',
     highlights: [
