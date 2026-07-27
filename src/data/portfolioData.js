@@ -155,7 +155,7 @@ export const experience = [
     role: 'Frontend Developer',
     company: 'Joechim Innotech',
     location: 'Musanze',
-    period: 'Jun 2019 — Feb 2021',
+    period: 'Jun 2025 — Feb 2026',
     highlights: [
       'Developed 15+ client-facing web applications using React and TypeScript',
       'Built a reusable component library adopted across 3 teams',
