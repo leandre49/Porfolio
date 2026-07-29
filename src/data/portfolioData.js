@@ -52,26 +52,21 @@ export const skills = {
     { name: 'Node.js', icon: FaNodeJs, color: '#339933' },
     { name: 'Express', icon: SiExpress, color: '#000000' },
     { name: 'Python', icon: FaPython, color: '#3776AB' },
-    { name: 'GraphQL', icon: SiGraphql, color: '#E10098' },
-    { name: 'Prisma', icon: SiPrisma, color: '#2D3748' },
+    
   ],
   Database: [
     { name: 'PostgreSQL', icon: SiPostgresql, color: '#4169E1' },
     { name: 'MongoDB', icon: SiMongodb, color: '#47A248' },
-    { name: 'Redis', icon: SiRedis, color: '#DC382D' },
-    { name: 'Firebase', icon: SiFirebase, color: '#FFCA28' },
+    
+    
   ],
   'DevOps & Tools': [
     { name: 'Docker', icon: FaDocker, color: '#2496ED' },
-    { name: 'AWS', icon: FaAws, color: '#FF9900' },
+    
     { name: 'Git', icon: FaGitAlt, color: '#F05032' },
     { name: 'GitHub', icon: FaGithub, color: '#181717' },
   ],
-  Testing: [
-    { name: 'Jest', icon: SiJest, color: '#C21325' },
-    { name: 'Cypress', icon: SiCypress, color: '#17202C' },
-    { name: 'Storybook', icon: SiStorybook, color: '#FF4785' },
-  ],
+  
   Design: [
     { name: 'Figma', icon: FaFigma, color: '#F24E1E' },
   ],
